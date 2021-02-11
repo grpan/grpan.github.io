@@ -4,7 +4,7 @@ _site
 .jekyll-metadata
 vendor
 
-Gemfile
-Gemfile.lock
-_config.yml
+#Gemfile
+#Gemfile.lock
+#_config.yml
 
